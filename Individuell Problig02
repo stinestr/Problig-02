@@ -15,4 +15,10 @@ end
 
 Norge = nordiske-flagg("red", "blue", "white")
 Sverige = nordiske-flagg("blue", "yellow", "yellow")
-Norge
+Danmark = nordiske-flagg("red", "white", "white")
+Island = nordiske-flagg("blue", "red", "white")
+Finland  = nordiske-flagg("white", "blue", "white")
+Faerooyene = nordiske-flagg("blue", "yellow", "red")
+
+
+
